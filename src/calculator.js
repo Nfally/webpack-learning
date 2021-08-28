@@ -1,4 +1,4 @@
-export default function (a, b, op) {
+const calc =  (a, b, op) => {
 	switch (op) {
 		case 'add':
 			console.log(a + b)
@@ -17,3 +17,5 @@ export default function (a, b, op) {
 			return a / b
 	}
 }
+
+export default calc
