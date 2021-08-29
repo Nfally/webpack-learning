@@ -1,0 +1,1 @@
+{"version":3,"file":"main.bundle.css","mappings":"AAEA;EACE,yBAHW;EAIZ;AADD","sources":["webpack://webpack-learning/./src/index.scss"],"sourcesContent":["$body-color: rgb(0, 153, 255);\n\nbody {\n  background-color: $body-color;\n\ttransform: translateX(50%);\n}\n"],"names":[],"sourceRoot":""}
